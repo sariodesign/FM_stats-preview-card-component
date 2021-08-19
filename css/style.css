@@ -149,4 +149,8 @@ body {
         display: flex;
         justify-content: space-between;
     }
+    
+    .card-stat-item {
+        margin-bottom: 0;
+    }
 }
